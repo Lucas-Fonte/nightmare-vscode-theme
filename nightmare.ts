@@ -22,7 +22,7 @@ const makingChristmas = () => {
 const NightmareBeforeChristmas: JackSkellington = {
     pumpkinKing: true,
     masterOfFreight: 'Demon of light',
-    toAGuyInKectucky: {
+    toAGuyInKenctucky: {
         scareYouRightOutOfYourPants: true
     },
     purpose: makingChristmas(),

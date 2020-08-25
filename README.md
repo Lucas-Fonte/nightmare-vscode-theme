@@ -5,7 +5,7 @@
   Nightmare Theme
 </h1>
 <p align="center">
-This is a an ultra-dark theme, inspired on the movie "Nightmare Before Christmas".
+This is a an ultra-dark theme, inspired by the movie "Nightmare Before Christmas".
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=LucasFonte.nightmare">
