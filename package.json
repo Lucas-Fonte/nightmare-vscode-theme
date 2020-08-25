@@ -4,7 +4,7 @@
     "description": "This is your Nightmare theme, inspired on the movie \"Nightmare Before Christmas\"",
     "icon": "images/nightmare-icon.png",
     "publisher": "LucasFonte",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
         "type": "git",
         "url": "https://github.com/Lucas-Fonte/nightmare-vscode-theme"
