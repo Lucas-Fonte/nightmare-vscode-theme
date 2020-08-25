@@ -27,13 +27,19 @@ This is a an ultra-dark theme, inspired by the movie "Nightmare Before Christmas
 
 ## Installation
 
+
+### MarketPlace
+
+Can be found at the MarketPlace, [here](https://marketplace.visualstudio.com/items?itemName=LucasFonte.nightmare).
+### VSCode
+
 1. Open **Extensions** sidebar panel in VS Code
 2. Search for ***"Nightmare"***
 3. Click **Install** to install it
 4. Then <kbd>command/ctrl</kbd> + <kbd>shift</kbd> + <kbd>P</kbd>
 5. Type **"Preferences: Color Theme"** , then ***"Nightmare"*** to load the theme.
 
-### Via terminal
+### Terminal
 
 ```sh
 foo@bar:~$ code --install-extension LucasFonte.nightmare
