@@ -1,0 +1,37 @@
+{
+    "name": "nightmare",
+    "displayName": "Nightmare",
+    "description": "This is your Nightmare theme, inspired on the movie \"Nightmare Before Christmas\"",
+    "icon": "images/nightmare-icon.png",
+    "publisher": "LucasFonte",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Lucas-Fonte/nightmare-vscode-theme"
+      },
+      "bugs": {
+        "url": "https://github.com/Lucas-Fonte/nightmare-vscode-theme"
+      },
+    "homepage": "https://github.com/Lucas-Fonte/nightmare-vscode-theme",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Nightmare",
+        "Before",
+        "Christmas",
+        "Halloween"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nightmare",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nightmare-color-theme.json"
+            }
+        ]
+    }
+}
