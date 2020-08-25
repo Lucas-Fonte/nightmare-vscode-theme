@@ -41,7 +41,8 @@ foo@bar:~$ code --install-extension LucasFonte.nightmare
 ---
 ## License
 
-To be added...
+[MIT](https://github.com/Lucas-Fonte/nightmare-vscode-theme/blob/master/LICENSE.md)
+
 
 
 
