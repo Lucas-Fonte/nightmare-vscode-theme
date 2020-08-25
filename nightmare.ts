@@ -5,7 +5,7 @@ import fs from 'fs';
 interface JackSkellington {
     pumpkinKing: boolean,
     masterOfFreight: string,
-    toAGuyInKectucky: MisterUnlucky
+    toAGuyInKenctucky: MisterUnlucky
     purpose: () => void
     hiddenInACave?: 1000000
 
