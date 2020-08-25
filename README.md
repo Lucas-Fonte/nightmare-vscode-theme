@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/nightmare-icon.png" alt="Lukin Theme Logo" width="150" style="border-radius: 8px">
+  <img src="./images/nightmare-icon.png" alt="Lukin Theme Logo" width="150" style="border-radius: 12px">
 </p>
 <h1 align="center">
   Nightmare Theme
